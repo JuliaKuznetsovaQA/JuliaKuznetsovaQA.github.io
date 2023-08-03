@@ -1,3 +1,3 @@
 <script>
-  window.location.href = "https://www.aviasales.ru/?marker=XXXXXX.short";
+  window.location.href = "https://github.com/JuliaKuznetsovaQA";
 </script>
